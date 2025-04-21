@@ -10,17 +10,14 @@
 
 ### 🚀 Projects I’ve Built
 
-- 🧾 **Invoice Generator API**  
-  Generate GST-compliant PDF invoices and email them.  
-  Tech: Django, WeasyPrint, SendGrid
+## 🚜 KisanVikas – Empowering Indian Agriculture  
+🌐 [Visit Website](https://www.kisanvikas.in/)  
+🛠️ Django | React
 
-- ⏲️ **Cron Manager Dashboard**  
-  Manage scheduled tasks (like scraping, backup, mailing) using FastAPI UI.  
-  Tech: FastAPI, Redis, Celery, React
+- 🧑‍💼 **Founder & Lead Developer** of KisanVikas — a robust platform addressing critical agricultural challenges.
+- 🛒 Spearheaded the launch of a secure **eCommerce module** that significantly improved transaction reliability, driving higher customer satisfaction and repeat usage.
+- 🌱 Currently building a revolutionary **AI-powered crop disease diagnostic tool** using image analysis — enabling predictive analytics and real-time insights for farmers.
 
-- 📥 **Google Drive Video Uploader**  
-  Upload large files directly from a URL to Google Drive without saving locally.  
-  Tech: FastAPI, Google APIs
 
 ---
 
