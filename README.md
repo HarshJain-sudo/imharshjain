@@ -1,18 +1,32 @@
 # 👋 Hi, I'm Harsh Jain
 
 🎯 Backend Developer | Python, Django, FastAPI  
-💡 Building Indie Projects | Automating Real-World Use Cases
+💡 Building Indie Projects | Helping founders launch faster
 
-🔧 Tech Stack: Python, Django, FastAPI, PostgreSQL, Redis, Celery, Docker
+🔧 Tech Stack:  
+`Python`, `Django`, `FastAPI`, `PostgreSQL`, `Redis`, `Celery`, `Docker`
 
-### 🚀 Projects
+---
 
-- **Invoice Generator API** → Generates GST-compliant invoices, exports as PDF & emails to client  
-- **Cron Manager Dashboard** → UI to manage scheduled tasks, built using FastAPI  
-- **Video Upload Tool** → Upload large video files directly to Google Drive without local save
+### 🚀 Projects I’ve Built
 
-### 💼 Open to Collaborate
+- 🧾 **Invoice Generator API**  
+  Generate GST-compliant PDF invoices and email them.  
+  Tech: Django, WeasyPrint, SendGrid
 
-If you're building an MVP or need backend help, I'm happy to collaborate!
+- ⏲️ **Cron Manager Dashboard**  
+  Manage scheduled tasks (like scraping, backup, mailing) using FastAPI UI.  
+  Tech: FastAPI, Redis, Celery, React
 
-📬 [Connect on LinkedIn](https://linkedin.com/in/harsh-jain-459371193)  
+- 📥 **Google Drive Video Uploader**  
+  Upload large files directly from a URL to Google Drive without saving locally.  
+  Tech: FastAPI, Google APIs
+
+---
+
+### 💼 Available for:
+- Part-time freelance backend gigs 💻
+- SaaS/MVP backend development
+- Collaborating on side projects
+
+📬 Reach me on [LinkedIn](https://linkedin.com/in/harsh-jain-459371193)  
